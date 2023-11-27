@@ -1,0 +1,8 @@
+.show_phone img {
+    height: 200px;
+    width: 200px;
+}
+
+#homepage {
+    display: flex;
+}
